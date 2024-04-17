@@ -1,0 +1,351 @@
+[27-Feb-2023 05:12:04 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home2/gbytesof/public_html/webvire.com/chandanayush/email.php on line 11
+[27-Feb-2023 05:36:42 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php:2235
+Stack trace:
+#0 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(2021): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 27 F...', '--b1=_1drtKB8Gy...')
+#2 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/gbytesof/public_html/webvire.com/chandanayush/mail.php(54): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2235
+[27-Feb-2023 05:39:07 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php:2235
+Stack trace:
+#0 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(2021): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 27 F...', '--b1=_R6Xbyaqtb...')
+#2 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/gbytesof/public_html/webvire.com/chandanayush/mail.php(54): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2235
+[27-Feb-2023 05:39:09 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php:2235
+Stack trace:
+#0 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(2021): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 27 F...', '--b1=_Vid3ErRDe...')
+#2 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/gbytesof/public_html/webvire.com/chandanayush/mail.php(54): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2235
+[27-Feb-2023 05:39:56 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php:2235
+Stack trace:
+#0 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(2021): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 27 F...', '--b1=_iVQfYUh1x...')
+#2 /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/gbytesof/public_html/webvire.com/chandanayush/mail.php(54): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/gbytesof/public_html/webvire.com/chandanayush/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2235
+[27-Feb-2023 05:48:30 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ") want to login with new IP : (" in /home2/gbytesof/public_html/webvire.com/chandanayush/mail.php on line 22
+[27-Feb-2023 06:49:16 UTC] PHP Warning:  Undefined array key "email,$service,$doctor$name,$date,$time" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 9
+[27-Feb-2023 06:49:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendmail(), 1 passed in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 9 and exactly 6 expected in /home2/gbytesof/public_html/chandanayushhospital.com/mail.php:4
+Stack trace:
+#0 /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php(9): sendmail(NULL)
+#1 {main}
+  thrown in /home2/gbytesof/public_html/chandanayushhospital.com/mail.php on line 4
+[27-Feb-2023 06:50:01 UTC] PHP Parse error:  syntax error, unexpected variable "$name", expecting ")" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 9
+[27-Feb-2023 06:50:23 UTC] PHP Parse error:  syntax error, unexpected variable "$name", expecting ")" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 9
+[27-Feb-2023 13:11:39 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:11:41 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:15:20 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:15:20 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:15:20 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:15:20 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:15:20 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:15:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:15:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:15:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:15:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:15:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:16:01 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:16:01 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:16:01 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:16:01 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:16:01 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:16:09 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:16:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:17:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:18:56 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:32:44 UTC] PHP Warning:  Undefined array key "name" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 4
+[27-Feb-2023 13:32:44 UTC] PHP Warning:  Undefined array key "mail" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 5
+[27-Feb-2023 13:32:44 UTC] PHP Warning:  Undefined array key "subject" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 6
+[27-Feb-2023 13:32:44 UTC] PHP Warning:  Undefined array key "message" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 7
+[27-Feb-2023 13:33:27 UTC] PHP Warning:  Undefined array key "name" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 4
+[27-Feb-2023 13:33:27 UTC] PHP Warning:  Undefined array key "mail" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 5
+[27-Feb-2023 13:33:27 UTC] PHP Warning:  Undefined array key "subject" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 6
+[27-Feb-2023 13:33:27 UTC] PHP Warning:  Undefined array key "message" in /home2/gbytesof/public_html/chandanayushhospital.com/contact.php on line 7
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:56:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[27-Feb-2023 13:57:41 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:43 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:46 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:49 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:53 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 03:59:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 04:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 04:00:08 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 95
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 04:07:58 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 05:48:22 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 05:48:22 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 05:48:22 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 05:48:22 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 05:48:22 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 115
+[28-Feb-2023 05:54:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 05:54:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 05:54:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 05:54:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 05:54:12 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 113
+[28-Feb-2023 05:54:54 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 05:54:54 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 05:54:54 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 05:54:57 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 05:54:57 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 05:54:57 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 05:54:57 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 103
+[28-Feb-2023 05:54:57 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 110
+[28-Feb-2023 05:55:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 05:55:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 05:55:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 05:55:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 103
+[28-Feb-2023 05:55:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 110
+[28-Feb-2023 08:27:24 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 08:27:24 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 08:27:24 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 08:27:24 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 08:27:24 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 08:27:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 08:27:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 08:27:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 08:27:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 08:27:25 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 88
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 91
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 104
+[28-Feb-2023 08:27:29 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 106
+[28-Feb-2023 13:01:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 632
+[28-Feb-2023 13:09:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[28-Feb-2023 13:09:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 90
+[28-Feb-2023 13:09:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 92
+[28-Feb-2023 13:09:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 105
+[28-Feb-2023 13:09:27 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 107
+[01-Mar-2023 05:01:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 89
+[01-Mar-2023 05:01:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 90
+[01-Mar-2023 05:01:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 92
+[01-Mar-2023 05:01:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 105
+[01-Mar-2023 05:01:39 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 107
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 3
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 6
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 9
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 23
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 111
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 112
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 114
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 127
+[01-Mar-2023 07:09:19 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 129
+[01-Mar-2023 07:22:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[02-Mar-2023 12:10:21 UTC] PHP Warning:  Undefined array key "email" in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 3
+[02-Mar-2023 12:10:22 UTC] PHP Warning:  Undefined array key "email" in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 3
+[02-Mar-2023 12:11:07 UTC] PHP Warning:  Undefined array key "email" in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 3
+[02-Mar-2023 12:11:36 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:38 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:39 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:39 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:40 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:40 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[02-Mar-2023 12:11:40 UTC] PHP Warning:  Undefined variable $email in /home2/gbytesof/public_html/chandanayushhospital.com/index.php on line 5
+[04-Mar-2023 08:59:50 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home2/gbytesof/public_html/chandanayushhospital.com/HospitalGallery.php on line 249
+[04-Mar-2023 08:59:51 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home2/gbytesof/public_html/chandanayushhospital.com/HospitalGallery.php on line 249
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:00:00 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:00:16 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:00:17 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 12
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 15
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 18
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 21
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 24
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 27
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 30
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 33
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 36
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 39
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 42
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 134
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 135
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 137
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 151
+[04-Mar-2023 09:01:31 UTC] PHP Warning:  Undefined variable $data in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 153
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "email" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 3
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "service" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 4
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "doctor" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 5
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "name" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 6
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "date" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 7
+[09-Mar-2023 14:27:52 UTC] PHP Warning:  Undefined array key "time" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 8
+[11-Mar-2023 13:22:50 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 152
+[11-Mar-2023 13:23:40 UTC] PHP Parse error:  syntax error, unexpected token "," in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 152
+[11-Mar-2023 13:23:42 UTC] PHP Parse error:  syntax error, unexpected token "," in /home2/gbytesof/public_html/chandanayushhospital.com/header.php on line 152
+[13-Mar-2023 10:56:46 UTC] PHP Warning:  Undefined array key "doctor" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 5
+[16-Mar-2023 11:01:06 UTC] PHP Warning:  Undefined array key "doctor" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 5
+[16-Mar-2023 11:01:07 UTC] PHP Warning:  Undefined array key "doctor" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 5
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "email" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 3
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "service" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 4
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "doctor" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 5
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "name" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 6
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "date" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 7
+[16-Mar-2023 20:11:42 UTC] PHP Warning:  Undefined array key "time" in /home2/gbytesof/public_html/chandanayushhospital.com/sendmail.php on line 8
